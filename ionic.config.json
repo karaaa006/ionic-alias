@@ -1,0 +1,7 @@
+{
+  "name": "ionic-alias",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
